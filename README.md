@@ -24,4 +24,4 @@ matrix3 = "I'm a string"
 vector1 = [7,8,9]
 vector2 = [[1,2,3],[4,5,6]]
 vector3 = 11
-print(matVec(matrix1,vector1))
+print(matVec(matrix#,vector#))
